@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "愛を解く",
+  "base_artist": "yama",
+  "createdAt": "2026-04-01T09:42:19.828987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛を解く",
+      "artist": "Yama",
+      "has_synced": true,
+      "path": "select/01_愛を解く_Yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛を解く",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_愛を解く_yama.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛を解く",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/localdb_01_愛を解く_yama.lrc",
+      "repo_name": "TeXWm3z1ECw"
+    }
+  ]
+}
